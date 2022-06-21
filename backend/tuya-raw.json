@@ -1,0 +1,315 @@
+{
+    "result": [
+        {
+            "active_time": 1648311676,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1648311676,
+            "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
+            "id": "eb96216e45ecbd9093p4qn",
+            "ip": "99.127.43.38",
+            "lat": "35.6518",
+            "local_key": "9fa92d5b218dcebb",
+            "lon": "-78.5613",
+            "model": "",
+            "name": "Dining room east",
+            "online": true,
+            "owner_id": "67229560",
+            "product_id": "ndb7eutgxgof5m2f",
+            "product_name": "Smart Bulb",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 1000
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 0
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "do_not_disturb",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "-04:00",
+            "uid": "az16483106952483lu98",
+            "update_time": 1649047384,
+            "uuid": "ba3507d33aa5a6fb"
+        },
+        {
+            "active_time": 1648311640,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1648311640,
+            "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
+            "id": "ebc378bf15c649fda3a6ex",
+            "ip": "99.127.43.38",
+            "lat": "35.6518",
+            "local_key": "a9b8ae3fadaf4f2e",
+            "lon": "-78.5613",
+            "model": "",
+            "name": "Dining room north",
+            "online": true,
+            "owner_id": "67229560",
+            "product_id": "ndb7eutgxgof5m2f",
+            "product_name": "Smart Bulb",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 1000
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 0
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "do_not_disturb",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "-04:00",
+            "uid": "az16483106952483lu98",
+            "update_time": 1649047374,
+            "uuid": "b8973d0dfd835b4b"
+        },
+        {
+            "active_time": 1648311657,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1648311657,
+            "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
+            "id": "eb3d1b1be53da69af5smae",
+            "ip": "99.127.43.38",
+            "lat": "35.6518",
+            "local_key": "d1a45aca49462233",
+            "lon": "-78.5613",
+            "model": "",
+            "name": "Dining room west",
+            "online": true,
+            "owner_id": "67229560",
+            "product_id": "ndb7eutgxgof5m2f",
+            "product_name": "Smart Bulb",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 1000
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 0
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "do_not_disturb",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "-04:00",
+            "uid": "az16483106952483lu98",
+            "update_time": 1649047373,
+            "uuid": "5f0585072b24c371"
+        },
+        {
+            "active_time": 1648310872,
+            "biz_type": 18,
+            "category": "dj",
+            "create_time": 1648310872,
+            "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
+            "id": "eb2134ad63ff7b1002azvl",
+            "ip": "99.127.43.38",
+            "lat": "35.6518",
+            "local_key": "8006fd421c478820",
+            "lon": "-78.5613",
+            "model": "",
+            "name": "Dining room south",
+            "online": true,
+            "owner_id": "67229560",
+            "product_id": "ndb7eutgxgof5m2f",
+            "product_name": "Smart Bulb",
+            "status": [
+                {
+                    "code": "switch_led",
+                    "value": true
+                },
+                {
+                    "code": "work_mode",
+                    "value": "white"
+                },
+                {
+                    "code": "bright_value_v2",
+                    "value": 1000
+                },
+                {
+                    "code": "temp_value_v2",
+                    "value": 0
+                },
+                {
+                    "code": "colour_data_v2",
+                    "value": "{\"h\":0,\"s\":1000,\"v\":1000}"
+                },
+                {
+                    "code": "scene_data_v2",
+                    "value": "{\"scene_num\":1,\"scene_units\":[{\"bright\":200,\"h\":0,\"s\":0,\"temperature\":0,\"unit_change_mode\":\"static\",\"unit_gradient_duration\":13,\"unit_switch_duration\":14,\"v\":0}]}"
+                },
+                {
+                    "code": "countdown_1",
+                    "value": 0
+                },
+                {
+                    "code": "music_data",
+                    "value": ""
+                },
+                {
+                    "code": "control_data",
+                    "value": ""
+                },
+                {
+                    "code": "rhythm_mode",
+                    "value": "AAAAAAA="
+                },
+                {
+                    "code": "sleep_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "wakeup_mode",
+                    "value": "AAA="
+                },
+                {
+                    "code": "do_not_disturb",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "-04:00",
+            "uid": "az16483106952483lu98",
+            "update_time": 1649047373,
+            "uuid": "d8b6d8fed55a7856"
+        }
+    ],
+    "success": true,
+    "t": 1649047628267,
+    "tid": "487284f3b3d211ecb40fae5e97192ed8"
+}

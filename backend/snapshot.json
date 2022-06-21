@@ -1,0 +1,33 @@
+{
+    "timestamp": 1649047681.6345317,
+    "devices": [
+        {
+            "name": "Dining room east",
+            "ip": 0,
+            "ver": 0,
+            "id": "eb96216e45ecbd9093p4qn",
+            "key": "9fa92d5b218dcebb"
+        },
+        {
+            "name": "Dining room north",
+            "ip": 0,
+            "ver": 0,
+            "id": "ebc378bf15c649fda3a6ex",
+            "key": "a9b8ae3fadaf4f2e"
+        },
+        {
+            "name": "Dining room west",
+            "ip": 0,
+            "ver": 0,
+            "id": "eb3d1b1be53da69af5smae",
+            "key": "d1a45aca49462233"
+        },
+        {
+            "name": "Dining room south",
+            "ip": 0,
+            "ver": 0,
+            "id": "eb2134ad63ff7b1002azvl",
+            "key": "8006fd421c478820"
+        }
+    ]
+}
