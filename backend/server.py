@@ -2,7 +2,7 @@ from telnetlib import STATUS
 from flask import Flask
 import flux_led
 app = Flask(__name__)
-light = flux_led.WifiLedBulb("192.168.1.177")
+light = flux_led.WifiLedBulb("your ip here")
 
 @app.route("/members")
 def members():
