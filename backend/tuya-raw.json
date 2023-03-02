@@ -1,21 +1,21 @@
 {
     "result": [
         {
-            "active_time": 1648311676,
+            "active_time": XXXXXXXXXXXXXXXXXX,
             "biz_type": 18,
             "category": "dj",
-            "create_time": 1648311676,
+            "create_time": XXXXXXXXXXXXXXXXX,
             "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
-            "id": "eb96216e45ecbd9093p4qn",
-            "ip": "99.127.43.38",
-            "lat": "35.6518",
-            "local_key": "9fa92d5b218dcebb",
-            "lon": "-78.5613",
+            "id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+            "ip": "XXXXXXXXXXXXXXXXXX",
+            "lat": "XXXXXXXXXX",
+            "local_key": "XXXXXXXXXXXXXXXXXXXXXX",
+            "lon": "XXXXXXXXXX3",
             "model": "",
             "name": "Dining room east",
             "online": true,
-            "owner_id": "67229560",
-            "product_id": "ndb7eutgxgof5m2f",
+            "owner_id": "6XXXXXXXXXXXXXXX",
+            "product_id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
             "product_name": "Smart Bulb",
             "status": [
                 {
@@ -78,21 +78,21 @@
             "uuid": "ba3507d33aa5a6fb"
         },
         {
-            "active_time": 1648311640,
+            "active_time": XXXXXXXXXXXX,
             "biz_type": 18,
             "category": "dj",
-            "create_time": 1648311640,
+            "create_time": XXXXXXXXXX,
             "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
-            "id": "ebc378bf15c649fda3a6ex",
-            "ip": "99.127.43.38",
-            "lat": "35.6518",
-            "local_key": "a9b8ae3fadaf4f2e",
-            "lon": "-78.5613",
+            "id": "XXXXXXXXXXXX",
+            "ip": "XXXXXXXXXXXXX",
+            "lat": "XXXXXXXXXXXX",
+            "local_key": "XXXXXXXXXXXX",
+            "lon": "XXXXXXXXXXXX",
             "model": "",
             "name": "Dining room north",
             "online": true,
-            "owner_id": "67229560",
-            "product_id": "ndb7eutgxgof5m2f",
+            "owner_id": "XXXXXXXXXXXX",
+            "product_id": "XXXXXXXXXXXX",
             "product_name": "Smart Bulb",
             "status": [
                 {
@@ -150,26 +150,26 @@
             ],
             "sub": false,
             "time_zone": "-04:00",
-            "uid": "az16483106952483lu98",
-            "update_time": 1649047374,
-            "uuid": "b8973d0dfd835b4b"
+            "uid": "XXXXXXXXXXXX",
+            "update_time": XXXXXXXXXXXX,
+            "uuid": "XXXXXXXXXXXX"
         },
         {
-            "active_time": 1648311657,
+            "active_time": XXXXXXXXXXXX,
             "biz_type": 18,
             "category": "dj",
-            "create_time": 1648311657,
+            "create_time": XXXXXXXXXXXX,
             "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
-            "id": "eb3d1b1be53da69af5smae",
-            "ip": "99.127.43.38",
-            "lat": "35.6518",
-            "local_key": "d1a45aca49462233",
-            "lon": "-78.5613",
+            "id": "XXXXXXXXXXXX",
+            "ip": "XXXXXXXXXXXX",
+            "lat": "XXXXXXXXXXXX",
+            "local_key": "XXXXXXXXXXXX",
+            "lon": "-XXXXXXXXXXXX",
             "model": "",
             "name": "Dining room west",
             "online": true,
-            "owner_id": "67229560",
-            "product_id": "ndb7eutgxgof5m2f",
+            "owner_id": "XXXXXXXXXXXX,
+            "product_id": "nXXXXXXXXXXXX",
             "product_name": "Smart Bulb",
             "status": [
                 {
@@ -226,27 +226,27 @@
                 }
             ],
             "sub": false,
-            "time_zone": "-04:00",
-            "uid": "az16483106952483lu98",
-            "update_time": 1649047373,
-            "uuid": "5f0585072b24c371"
+            "time_zone": "XXXXXXXXXXXX",
+            "uid": "XXXXXXXXXXXX",
+            "update_time": XXXXXXXXXXXX,
+            "uuid": "XXXXXXXXXXXX"
         },
         {
-            "active_time": 1648310872,
+            "active_time": XXXXXXXXXXXX,
             "biz_type": 18,
             "category": "dj",
-            "create_time": 1648310872,
+            "create_time": XXXXXXXXXXXX,
             "icon": "smart/icon/001458092465966zkPdc/842c536493ce5dfd58d1d380c80c190e.png",
-            "id": "eb2134ad63ff7b1002azvl",
-            "ip": "99.127.43.38",
-            "lat": "35.6518",
-            "local_key": "8006fd421c478820",
+            "id": "XXXXXXXXXXXX",
+            "ip": "XXXXXXXXXXXX",
+            "lat": "XXXXXXXXXXXX",
+            "local_key": "XXXXXXXXXXXX",
             "lon": "-78.5613",
             "model": "",
             "name": "Dining room south",
             "online": true,
-            "owner_id": "67229560",
-            "product_id": "ndb7eutgxgof5m2f",
+            "owner_id": "XXXXXXXXXXXX",
+            "product_id": "XXXXXXXXXXXX",
             "product_name": "Smart Bulb",
             "status": [
                 {
@@ -304,12 +304,12 @@
             ],
             "sub": false,
             "time_zone": "-04:00",
-            "uid": "az16483106952483lu98",
-            "update_time": 1649047373,
-            "uuid": "d8b6d8fed55a7856"
+            "uid": "XXXXXXXXXXXX",
+            "update_time": XXXXXXXXXXXX,
+            "uuid": "XXXXXXXXXXXX"
         }
     ],
     "success": true,
-    "t": 1649047628267,
-    "tid": "487284f3b3d211ecb40fae5e97192ed8"
+    "t": XXXXXXXXXXXX,
+    "tid": "XXXXXXXXXXXX"
 }
